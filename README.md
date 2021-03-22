@@ -9,6 +9,6 @@ The Restrictions are made according to hour (07:00 - 09:30 / 16:00 - 19:30) and 
 - Saturday/Sunday : Free
  
 
-Note: Before running the program make sure you have installed node module 'prompt-sync'  (npm install prompt-sync)<br/>
+Note: Use Node to run App.js but before running it make sure you have installed node module 'prompt-sync'  (npm install prompt-sync)<br/>
 
 
